@@ -5,8 +5,11 @@
 
 <br />
 
-![Anouska's GitHub stats](https://github-readme-stats.vercel.app/api?username=anouskadegraaf&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)
-<img align="left" alt="Anouska's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anouskadegraaf&show_icons=true&hide_border=true&count_private=true&theme=onedark" />
+![Anouska's GitHub stats](https://github-readme-stats.vercel.app/api?username=anouskadegraaf&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true)
+
+<br />
+<br />
+<br />
 
 ### Languages & Tools
 
