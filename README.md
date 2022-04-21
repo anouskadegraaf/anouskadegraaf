@@ -3,7 +3,8 @@
 - 🔭 I’m currently working at Rijkswaterstaat
 - 🌱 I’m currently learning more about Java
 
-<p>
+<br />
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -20,7 +21,8 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
-</p>
+
+<br />
 
 ![Anouska's GitHub stats](https://github-readme-stats.vercel.app/api?username=anouskadegraaf&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true)
 
