@@ -3,6 +3,8 @@
 - 🔭 I’m currently working at Rijkswaterstaat
 - 🌱 I’m currently learning more about Java
 
+![Anouska's GitHub stats](https://github-readme-stats.vercel.app/api?username=anouskadegraaf&show_icons=true&theme=radical)
+
 ### Languages & Tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anouskadegraaf&layout=compact)](https://github.com/anouskadegraaf/github-readme-stats)
