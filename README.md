@@ -5,7 +5,7 @@
 
 <br />
 
-![Anouska's GitHub stats](https://github-readme-stats.vercel.app/api?username=anouskadegraaf&count_private=true&show_icons=true&theme=onedark&custom_title=Anouska's GitHub stats)
+![Anouska's GitHub stats](https://github-readme-stats.vercel.app/api?username=anouskadegraaf&count_private=true&show_icons=true&theme=onedark)
 
 ### Languages & Tools
 
