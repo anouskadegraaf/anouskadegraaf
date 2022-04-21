@@ -5,7 +5,11 @@
 
 <br />
 
-![Anouska's GitHub stats](https://github-readme-stats.vercel.app/api?username=anouskadegraaf&show_icons=true&theme=onedark&count_private=true)
+![Anouska's GitHub stats](https://github-readme-stats.vercel.app/api?username=anouskadegraaf&count_private=true&show_icons=true&theme=onedark&custom_title=Anouska's GitHub stats)
+
+### Languages & Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anouskadegraaf&layout=compact)](https://github.com/anouskadegraaf/github-readme-stats)
 
 <!--
 **anouskadegraaf/anouskadegraaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
